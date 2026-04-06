@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🚀 ¡Bienvenido/a a mi GitHub! Soy Cerlevi
 
-<!--
-**DiegoOlivar-web/DiegoOlivar-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un/a aspirante a **Ingeniero/a de Software** con experiencia creativa en diseño gráfico y una gran pasión por el **ecosistema Linux**. Me especializo en crear experiencias web limpias, eficientes y visualmente atractivas.
 
-Here are some ideas to get you started:
+--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Mi Portafolio
+Puedes encontrar mi portafolio completo, proyectos y trabajos visuales aquí:
+👉 **Muy pronto**
+
+---
+
+### 🛠 Tecnologías y Herramientas
+* **Frontend:** HTML5, CSS3, JavaScript.
+
+* **Entorno:** Ubuntu / Zsh / Git.
+
+* **Creatividad:** Diseño gráfico digital.
+
+### 📈 Enfoque Actual
+- 🎓 Cursando una licenciatura en Ingeniería de Software.
+
+- ⚡ Optimizando mi flujo de trabajo mediante scripts de shell y herramientas de terminal.
+- 🎨 Uniendo la interfaz de usuario (UI/UX) con una sólida lógica de backend.
+
+--
+
+### 📫 Conecta conmigo:
+[LinkedIn](muy-pronto) | [Twitter/X](muy-pronto) | [Correo electrónico](diegoolivarsantiago@gmail.com)
+
+**"El código es el puente entre la imaginación y la realidad."**
