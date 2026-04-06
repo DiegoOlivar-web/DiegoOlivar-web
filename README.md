@@ -1,4 +1,4 @@
-# 🚀 ¡Bienvenido/a a mi GitHub! Soy Cerlevi
+# 🚀 ¡Bienvenido/a a mi GitHub! Soy Diego
 
 Soy un/a aspirante a **Ingeniero/a de Software** con experiencia creativa en diseño gráfico y una gran pasión por el **ecosistema Linux**. Me especializo en crear experiencias web limpias, eficientes y visualmente atractivas.
 
